@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "71f3718b-7752-48bb-a90f-2a75ab093b36",
+    "author": "Iago Andreu",
+    "description": {
+        "": "Align a moving plane onto a fixed plane, carrying any number of bodies and components with it."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
